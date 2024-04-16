@@ -77,12 +77,9 @@
 export default {
     data() {
         return {
-            tags: ['闲谈', '技术', '更新'],
+            tags: [],
             fri: [
-                {
-                    "name": "Steamed Fresh",
-                    "url": "https://steamedfresh.online/"
-                }
+
             ],
             turn: true,
             hposts: false,
